@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Foodics QA Full Suite" verbose="1">
+    <suite-files>
+        <suite-file path="testng-api.xml"/>
+        <suite-file path="testng-ui.xml"/>
+    </suite-files>
+</suite>
